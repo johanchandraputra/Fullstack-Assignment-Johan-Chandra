@@ -17,9 +17,8 @@ b. Halaman Form Product
 3. Untuk delete, tampilkan modal dialog box dengan informasi productnya dan button pilihan Yes
 or No.
 
-
-
-How to Run using #npm run dev#
+how to run using :
+npm run dev
 
 
 Menggunakan Technology
