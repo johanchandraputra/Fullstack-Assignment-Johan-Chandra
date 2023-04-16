@@ -17,6 +17,11 @@ b. Halaman Form Product
 3. Untuk delete, tampilkan modal dialog box dengan informasi productnya dan button pilihan Yes
 or No.
 
+
+
+How to Run using #npm run dev#
+
+
 Menggunakan Technology
 
 CoreUI : 4.2.6
